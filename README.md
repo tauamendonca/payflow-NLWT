@@ -1,0 +1,26 @@
+# Payflow
+
+Project created following the Flutter classes from Rocketseat's Next Level Week Together event. 
+
+## The project
+
+This project is meant to save your bills by reading their barcode and warning you if there's any bills nearing it's pay date. 
+Some functionalities are meant to be added as a challenge in the end of the event. 
+
+Right now: Starting development of this project, following the second day of class.
+
+The event was comprised of 5 days of classes, where:
+
+1st class: A brief introduction about Flutter, what it can do and how to create your first flutter app, along with some concepts like stateful and stateless. 
+
+2nd class: (Watching in this moment) Splash and Login screens, layout only.
+
+
+## Challenges
+
+Up to now the challenges that were talked about in the classes and that I will (try to) implement are:
+
+- Filter the bills by month or other data
+- Use the barcode to fill the bills data
+
+My added challenge, for after the event, will be the creation of a copy of this project and changing it into a product registry that can also mantain records about stock levels of goods and/or frequency of substitution of them.  
