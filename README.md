@@ -12,7 +12,14 @@ The event was comprised of 5 days of classes, where:
 
 1st class: A brief introduction about Flutter, what it can do and how to create your first flutter app, along with some concepts like stateful and stateless. 
 
-2nd class: (Watching in this moment) Splash and Login screens, layout only.
+2nd class: Splash and Login screens, layout only, with social login button. Styles and theme. Basic structure for the home page.
+
+3rd class: Firebase connection, social login.
+(implementing this class right now)
+
+4th class: TBA
+
+5th class: TBA
 
 
 ## Challenges
