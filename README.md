@@ -4,8 +4,7 @@ Project created following the Flutter classes from Rocketseat's Next Level Week 
 
 ## The project
 
-This project is meant to save your bills by reading their barcode and warning you if there's any bills nearing it's pay date. 
-Some functionalities are meant to be added as a challenge in the end of the event. 
+This project is meant to save your bills by reading their barcode through the camera using Firebase machine learning. It uses social login through Firebase and contain some animations. Also, there are some functionalities that are meant to be added as a challenge in the end of the event. 
 
 Right now: Starting development of this project, following the second day of class.
 
