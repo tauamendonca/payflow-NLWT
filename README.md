@@ -21,7 +21,14 @@ The event was comprised of 5 days of classes, where some of the content is:
 5th class: Bills screen, animation, controlling, adding and saving bills. 
 
 
-## Challenges:
+## Challenges (To Do):
 
-- Logout button - Not yet done. 
+This is a list of challenges that I intend to implement in the next few weeks: 
 
+- Animate Login Screen.
+- Logout button.
+- Filter bills by pay date.
+- Color bill if payment is overdue.
+- Mark if payed or not. 
+- Make app work in IOS and web.
+- Implement basic tests.
