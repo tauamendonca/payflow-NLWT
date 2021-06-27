@@ -8,25 +8,20 @@ This project is meant to save your bills by reading their barcode through the ca
 
 Right now: Starting development of this project, following the second day of class.
 
-The event was comprised of 5 days of classes, where:
+The event was comprised of 5 days of classes, where some of the content is:
 
 1st class: A brief introduction about Flutter, what it can do and how to create your first flutter app, along with some concepts like stateful and stateless. 
 
 2nd class: Splash and Login screens, layout only, with social login button. Styles and theme. Basic structure for the home page.
 
 3rd class: Firebase connection, social login.
-(implementing this class right now)
 
-4th class: TBA
+4th class: Navigation, Barcode Scanner backend and page, camera widget, listeners.
 
-5th class: TBA
+5th class: Bills screen, animation, controlling, adding and saving bills. 
 
 
-## Challenges
+## Challenges:
 
-Up to now the challenges that were talked about in the classes and that I will (try to) implement are:
+- Logout button - Not yet done. 
 
-- Filter the bills by month or other data
-- Use the barcode to fill the bills data
-
-My added challenge, for after the event, will be the creation of a copy of this project and changing it into a product registry that can also mantain records about stock levels of goods and/or frequency of substitution of them.  
